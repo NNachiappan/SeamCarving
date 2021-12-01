@@ -4,7 +4,7 @@ An implementation of the Seam Carving algorithm using C++ and OpenCV.
 
 Seam Carving is an image resizing algorithm that preserves the scale of objects in images. This was first proposed by Avidan and Shamir[1].
 The algorithm finds vertical seams (vertical paths) in an image that are unimportant.
-Seams are found by using edge detection and finding a vertical path that minimises the interestion of edges.
+Seams are found by using edge detection and finding a vertical path that minimises the intersection of edges.
 
 This project was inspired by this video: https://www.youtube.com/watch?v=rpB6zQNsbQU
 
